@@ -6,6 +6,7 @@ https://www.youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW- <br/>
 
 Ethereum<br/>
 https://ethereum.org/en/ <br/>
+https://youtu.be/itUrxH-rksc<br/>
 
 Solidity <br/>
 https://soliditylang.org <br/>
