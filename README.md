@@ -5,7 +5,8 @@ Ethereum<br/>
 https://ethereum.org/en/ <br/>
 
 Solidity <br/>
-https://soliditylang.org
+https://soliditylang.org <br/>
+https://youtu.be/ipwxYa-F1uY <br/>
 
 Practicle Project<br/>
 https://techblog.geekyants.com/developing-blockchain-applications-with-flutter <br/>
