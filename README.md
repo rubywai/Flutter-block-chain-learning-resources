@@ -9,6 +9,12 @@ https://soliditylang.org <br/>
 https://youtu.be/ipwxYa-F1uY <br/>
 
 Practicle Project<br/>
+(For Android & Java)<br/>
+https://boemo1mmopelwa.medium.com/implementing-etherium-blockchain-in-android-with-web3j-485ea0747088<br/>
+https://medium.com/@pacs_IT/an-ethereum-api-for-android-app-developers-revision-and-whats-to-come-eb5488fc3adb<br/>
+
+
+(For Flutter)<br/>
 https://techblog.geekyants.com/developing-blockchain-applications-with-flutter <br/>
 https://www.geeksforgeeks.org/flutter-and-blockchain-hello-world-dapp <br/>
 
