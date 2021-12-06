@@ -44,3 +44,9 @@ My Done Projects<br/>
 https://github.com/Rubywai/flutter_ethereum_blockchain
 
 https://github.com/Rubywai/flutter_ethereum_todolist_app
+
+Important facts to know</br>
+Differences between Coin and Token</br>
+https://www.quora.com/What-is-the-difference-between-a-coin-and-a-token</br>
+
+
