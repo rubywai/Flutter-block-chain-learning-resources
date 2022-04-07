@@ -14,6 +14,8 @@ HyperLedger Besu<br>
 https://www.youtube.com/watch?v=1Y3nI8Mos_I&t=39s
 Besu Free gas<br/>
 https://besu.hyperledger.org/en/stable/HowTo/Configure/FreeGas/
+Besu consensus algorithms
+https://besu.hyperledger.org/en/stable/Concepts/Consensus-Protocols/Overview-Consensus/
 
 Solidity <br/>
 https://soliditylang.org <br/>
