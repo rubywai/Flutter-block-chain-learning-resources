@@ -44,11 +44,13 @@ https://www.youtube.com/playlist?list=PLVL9I5xQTSjEXxmjUC-RjQq-yCGZfp9GF <br/>
 
 My Done Projects<br/>
 https://github.com/Rubywai/flutter_ethereum_blockchain
-
 https://github.com/Rubywai/flutter_ethereum_todolist_app
 
 Important facts to know</br>
 Differences between Coin and Token</br>
 https://www.quora.com/What-is-the-difference-between-a-coin-and-a-token</br>
+
+ERC 20 Token Solidity Code
+https://github.com/rubywai/ERC20token
 
 
