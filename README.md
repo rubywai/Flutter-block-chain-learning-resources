@@ -16,6 +16,8 @@ Besu Free gas<br/>
 https://besu.hyperledger.org/en/stable/HowTo/Configure/FreeGas/
 Besu consensus algorithms
 https://besu.hyperledger.org/en/stable/Concepts/Consensus-Protocols/Overview-Consensus/
+Prove of Authority(POAs)
+https://besu.hyperledger.org/en/1.2.1/Consensus-Protocols/Comparing-PoA/
 
 Solidity <br/>
 https://soliditylang.org <br/>
